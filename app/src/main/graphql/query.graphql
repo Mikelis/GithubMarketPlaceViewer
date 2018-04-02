@@ -1,0 +1,17 @@
+query FeedQuery {  
+  marketplaceListings($first: Int!) {
+    edges {
+      node {
+        id
+        name
+        fullDescription
+        companyUrl       
+        resourcePath
+        logoUrl
+        shortDescription
+      }
+    }
+  }
+}
+    
+  

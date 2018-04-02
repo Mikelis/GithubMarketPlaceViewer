@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubMarketplace</string>
+    <string name="filter_app_list_by_categories">Filter App List By Categories</string>
+</resources>
